@@ -1,4 +1,4 @@
-from parser.parser import parse_file
+from parsing.parsing import parse_file
 
 class Generator:
 	def __init__(self, input_file):
