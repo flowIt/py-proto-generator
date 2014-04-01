@@ -25,4 +25,4 @@ pip install -r requirements.txt
 
 Then to generate the output file:
 
-cog -D input_file=example.txt setup.py
+cog.py -d -D input_file=example.txt setup.py
