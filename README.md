@@ -16,8 +16,8 @@ The following lines describes the links between the blocks:
 Where
 - A is the block index from which to connect from
 - B is the output index of the block to be connected with
-- C is the block index from which to connect to
-- D is the input index of the block to connect to
+- C is the input index of the block to connect to
+- D is the block index from which to connect to
 
 To install the dependencies, you can use pip
 
