@@ -21,7 +21,7 @@ Where
 
 To install the dependencies, you can use pip
 
-pip install -r requierements.txt
+pip install -r requirements.txt
 
 Then to generate the output file:
 
