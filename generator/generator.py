@@ -7,3 +7,6 @@ class Generator:
 
 	def header(self):
 		return self.header
+
+        def connections(self):
+                return self.connections
